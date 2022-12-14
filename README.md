@@ -1,7 +1,7 @@
 # CGI Flood Prediction and Mitigation
 ## [Final Presentation](https://docs.google.com/presentation/d/13MLbYKmZbhku9h3XqiFmrV2p6uzkDECL71DOnnmPDoA/edit?usp=sharing)
 
-This repository will stores code for a CGI Externship Project completed in the Fall 2022 semester via NJBDA in collaboration with the Rutgers MBS Exchange Program
+This repository stores code for a CGI Externship Project completed in the Fall 2022 semester via NJBDA in collaboration with the Rutgers MBS Exchange Program
 
 **Overarching Goal**: Deliver a strategy to predict and mitigate flood effects in vulnerable NJ areas in order to help business and families suffering from the effects of flood events and storms such as Hurricane Ida
 
