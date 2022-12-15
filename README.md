@@ -19,25 +19,27 @@ This repository stores code for a CGI Externship Project completed in the Fall 2
 **Flood Mapping**
 - Goal: Build flood susceptibility map to view the most vulverable area in North Trenton
 - Point:
---Assunpink Creek, which runs through North Trenton, is a main flood source
---The deep red area is prone to flooding due to the proximity to rivers 
---Every year, water levels tend to increase from December through May
+- Assunpink Creek, which runs through North Trenton, is a main flood source
+- The deep red area is prone to flooding due to the proximity to rivers 
+- Every year, water levels tend to increase from December through May
 
 **Flood Financial Analysis**
 - Goal: 
 - Point
 
 ### Takeaways and Next Steps
--Water Level Prediction:
+- Water Level Prediction:
 Tune XGBoost model and fix correlated features
 Analyze feature importance to simplify future models
 Leverage exponential smoothing models
 Explore other locations with accessible datasets
+
 - Flood Susceptibility map:
 Build county or city-level flood map
 Explore more FEMA flood datasets
 Select the city/county with highest flood susceptibility
 Add interactive map features
+
 - Flood Financial Analysis
 Explore FEMA claims dataset county/city level
 Study flood damage by industry
