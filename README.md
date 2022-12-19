@@ -40,7 +40,7 @@ This repository stores code for a CGI Externship Project completed in the Fall 2
 - Add interactive map features
 
 **Flood Financial Analysis**
-- Explore FEMA claims dataset county/city level
+- Explore FEMA claims dataset at the county and city level
 - Study flood damage by industry
 - Risk management strategies for buildings in susceptible areas
 - Explore how floods affect financial and qualitative aspects of a business
